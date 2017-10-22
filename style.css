@@ -1,0 +1,15 @@
+.myimage {
+	width: 300px; 
+}
+
+a.navbar-brand.custom-navbar-brand {
+	color: white;
+}
+
+a.nav-link-custom {
+	color: white;
+}
+
+img {
+	border-radius: 80%;
+}
